@@ -1,8 +1,6 @@
 Yes, Alexandria is mine
 
 Private repository to ensure user safety.
-
-
    ||     ||     ||     ||     ||
   ====   ====   ====   ====   ====
   ||||   ||||   ||||   ||||   ||||
@@ -15,6 +13,5 @@ Private repository to ensure user safety.
   ||||   ||||   ||||   ||||   ||||
   ====   ====   ====   ====   ====
    ||     ||     ||     ||     ||
-
 
 study the scrolls
